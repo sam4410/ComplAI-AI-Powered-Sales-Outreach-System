@@ -1,6 +1,4 @@
-# CompliAI-AI-powered-sales-outreach-system'
-
-# 📧 ComplAI Sales Outreach System
+# 📧 ComplAI AI-Powered Sales Outreach System
 
 > **AI-Powered Cold Email Generation & Automation Platform**
 
