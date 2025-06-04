@@ -4,7 +4,7 @@ python-dotenv>=1.0.0
 sendgrid>=6.10.0
 
 # OpenAI Agents SDK
-openai-agents>=0.1.0
+openai-agents
 
 # Base OpenAI package (if needed as dependency)
 openai>=1.0.0
