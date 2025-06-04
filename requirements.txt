@@ -2,65 +2,11 @@
 streamlit>=1.28.0
 python-dotenv>=1.0.0
 sendgrid>=6.10.0
-asyncio-compat>=0.1.2
 
 # OpenAI Agents SDK
-# Note: Replace with actual package name when available
-# openai-agents-sdk>=1.0.0
-# OR if using OpenAI directly:
+# Note: Replace with the actual agents SDK package when available
+# For now, assuming it's part of openai package or custom agents module
 openai>=1.0.0
 
-# Additional Dependencies for AI/ML
-numpy>=1.24.0
-pandas>=2.0.0
-requests>=2.31.0
-
-# Development Dependencies (optional)
-pytest>=7.4.0
-black>=23.0.0
-flake8>=6.0.0
-pre-commit>=3.3.0
-
-# Environment Management
-python-decouple>=3.8
-environs>=10.0.0
-
-# Logging and Monitoring
-loguru>=0.7.0
-structlog>=23.1.0
-
-# Type Hints
+# Type Hints (Python 3.8 compatibility)
 typing-extensions>=4.7.0
-
-# Security
-cryptography>=41.0.0
-certifi>=2023.7.22
-
-# Web Framework Enhancements
-streamlit-option-menu>=0.3.6
-streamlit-aggrid>=0.3.4
-plotly>=5.15.0
-
-# Email Validation
-email-validator>=2.0.0
-validators>=0.20.0
-
-# Date/Time Handling
-python-dateutil>=2.8.2
-pytz>=2023.3
-
-# Configuration Management
-pydantic>=2.0.0
-pydantic-settings>=2.0.0
-
-# HTTP Client
-httpx>=0.24.0
-aiohttp>=3.8.0
-
-# JSON/Data Processing
-orjson>=3.9.0
-ujson>=5.8.0
-
-# Async Support
-anyio>=3.7.0
-trio>=0.22.0
