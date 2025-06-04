@@ -4,8 +4,9 @@ python-dotenv>=1.0.0
 sendgrid>=6.10.0
 
 # OpenAI Agents SDK
-# Note: Replace with the actual agents SDK package when available
-# For now, assuming it's part of openai package or custom agents module
+openai-agents>=0.1.0
+
+# Base OpenAI package (if needed as dependency)
 openai>=1.0.0
 
 # Type Hints (Python 3.8 compatibility)
