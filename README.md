@@ -1,6 +1,11 @@
-# 📧 ComplAI AI-Powered Sales Outreach System
+# 📧 ComplAI Sales Outreach System
 
 > **AI-Powered Cold Email Generation & Automation Platform**
+
+[![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://python.org)
+[![Streamlit](https://img.shields.io/badge/Streamlit-1.28%2B-red.svg)](https://streamlit.io)
+[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
 
 ## 🚀 Overview
 
@@ -353,6 +358,13 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **SendGrid** for reliable email delivery
 - **Streamlit** for the amazing web framework
 - **ComplAI Team** for product vision and requirements
+
+## 📞 Support
+
+- **Documentation**: [Wiki](https://github.com/your-org/complai-sales-outreach/wiki)
+- **Issues**: [GitHub Issues](https://github.com/your-org/complai-sales-outreach/issues)
+- **Discussions**: [GitHub Discussions](https://github.com/your-org/complai-sales-outreach/discussions)
+- **Email**: support@complai.com
 
 ---
 
