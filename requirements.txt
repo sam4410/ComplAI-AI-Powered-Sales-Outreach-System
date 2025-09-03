@@ -11,3 +11,4 @@ openai>=1.0.0
 
 # Type Hints (Python 3.8 compatibility)
 typing-extensions>=4.7.0
+asyncio
